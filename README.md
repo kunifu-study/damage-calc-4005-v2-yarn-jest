@@ -1,4 +1,6 @@
 # damage-calc
+[![CircleCI](https://circleci.com/gh/kunifu-study/damage-calc-4005-v2-yarn-jest.svg?style=svg)](https://circleci.com/gh/kunifu-study/damage-calc-4005-v2-yarn-jest)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
